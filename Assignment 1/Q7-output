@@ -1,0 +1,25 @@
+Assign1_Q7
+Question 7 output:
+
+Test Case 1: Co-linear points
+A = (0, 0, 0), B = (1, 0, 0), C = (2, 0, 0)
+Base vectors are not orthogonal.
+Oe: 1  0  0
+e1: 1  0  0
+e2: NaN  NaN  NaN
+e3: NaN  NaN  NaN
+ 
+Test Case 2: Non Colinear Points
+A = (0, 0, 0), B = (1, 0, 0), C = (0, 1, 0)
+Oe: 0.33333     0.33333           0
+e1: 1  0  0
+e2: 0  1  0
+e3: 0  0  1
+ 
+Test Case 3: Basis Points along x, y, z
+A = (1, 0, 0), B = (0, 1, 0), C = (0, 0, 1)
+Oe: 0.33333     0.33333     0.33333
+e1: -0.70711     0.70711           0
+e2: -0.40825    -0.40825      0.8165
+e3: 0.57735     0.57735     0.57735
+ 

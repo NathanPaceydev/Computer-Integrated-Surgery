@@ -1,0 +1,15 @@
+Assign1_Q4
+Question 4 output:
+
+Sphere Centered at: (0,0,0) with radi 5 and 
+Cylinder Centered at: (0,0,15) with radi 10 in direction: (0,1,0)
+Has 1 intestection(s)
+
+Sphere Centered at: (0,0,0) with radi 2 and 
+Cylinder Centered at: (0,0,15) with radi 10 in direction: (0,1,0)
+Has 0 intestection(s)
+
+Sphere Centered at: (0,0,0) with radi 20 and 
+Cylinder Centered at: (0,0,15) with radi 10 in direction: (0,1,0)
+Has Infinite intestection(s)
+

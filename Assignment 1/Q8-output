@@ -1,0 +1,39 @@
+Assign1_Q8
+Question 8 output:
+
+Test Case 1: Rotate 90 degrees about the x-axis
+Rotation Matrix (3x3):
+    1.0000         0         0
+         0    0.0000   -1.0000
+         0    1.0000    0.0000
+
+Homogeneous Rotation Matrix (4x4):
+    1.0000         0         0         0
+         0    0.0000   -1.0000         0
+         0    1.0000    0.0000         0
+         0         0         0    1.0000
+
+Test Case 2: Rotate 45 degrees about the y-axis
+Rotation Matrix (3x3):
+    0.7071         0    0.7071
+         0    1.0000         0
+   -0.7071         0    0.7071
+
+Homogeneous Rotation Matrix (4x4):
+    0.7071         0    0.7071         0
+         0    1.0000         0         0
+   -0.7071         0    0.7071         0
+         0         0         0    1.0000
+
+Test Case 3: Rotate 60 degrees about the z-axis
+Rotation Matrix (3x3):
+    0.5000   -0.8660         0
+    0.8660    0.5000         0
+         0         0    1.0000
+
+Homogeneous Rotation Matrix (4x4):
+    0.5000   -0.8660         0         0
+    0.8660    0.5000         0         0
+         0         0    1.0000         0
+         0         0         0    1.0000
+

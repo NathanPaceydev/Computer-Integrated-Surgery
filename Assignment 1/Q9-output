@@ -1,0 +1,39 @@
+Assign1_Q9
+Question 9 output:
+
+Test Case 1: Pure Translation (2,2,-2)
+     1     0     0     2
+     0     1     0     2
+     0     0     1    -2
+     0     0     0     1
+
+Test Case 2: Pure Translation (0.5, -12, 72.5)
+    1.0000         0         0    0.5000
+         0    1.0000         0  -12.0000
+         0         0    1.0000   72.5000
+         0         0         0    1.0000
+
+Test Case 3: Pure Rotation 45 deg about x-axis
+    1.0000         0         0         0
+         0    0.7071    0.7071         0
+         0   -0.7071    0.7071         0
+         0         0         0    1.0000
+
+Test Case 4: Pure Rotation 60 deg about y-axis
+    0.5000         0   -0.8660         0
+         0    1.0000         0         0
+    0.8660         0    0.5000         0
+         0         0         0    1.0000
+
+Test Case 5: Translate (1,2,3) & Rotation 60 deg about z-axis
+    0.8660    0.5000         0    1.0000
+   -0.5000    0.8660         0    2.0000
+         0         0    1.0000    3.0000
+         0         0         0    1.0000
+
+Test Case 6: Translation (5,5,5) and Rotation 45 deg in z and 30 deg in x
+    0.7071    0.7071         0    5.0000
+   -0.6124    0.6124   -0.5000    5.0000
+   -0.3536    0.3536    0.8660    5.0000
+         0         0         0    1.0000
+

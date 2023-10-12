@@ -1,0 +1,32 @@
+>> Assign1_Q2
+Question 2 output:
+
+Given Line:
+L = [0,2,1]+ t*[0,-2,0]
+Given Plane:
+ n = [0,0,1], A = [0,0,0]
+
+Intersection Point = [None] 
+
+Given Line:
+L = [0,0,0]+ t*[0,-2,0]
+Given Plane:
+ n = [0,0,1], A = [0,0,0]
+
+Intersection Point = [Infinte] 
+
+Given Line:
+L = [0,0,0]+ t*[0,0,1]
+Given Plane:
+ n = [0,0,1], A = [0,0,0]
+
+Intersection Point = [0, 0, 0] 
+
+Given Line:
+L = [1,-2,5]+ t*[-3,2,1]
+Given Plane:
+ n = [0,0,1], A = [0,0,0]
+
+Intersection Point = [16, -12, 0] 
+
+>> 
