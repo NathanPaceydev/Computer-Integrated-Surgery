@@ -1,0 +1,17 @@
+>> testInverse
+Test 1. Only Needle Insertion No Rotation or Translation
+theta: 0.00
+d: 45.00
+z: 0.00
+
+Test 2. Needle Insertion and Axis Rotation
+theta: 30.00
+d: 51.96
+z: 0.00
+
+Test 3. All degrees of freedom Needle, Rotation and Translation
+theta: 30.00
+d: 51.96
+z: 10.00
+
+>> 

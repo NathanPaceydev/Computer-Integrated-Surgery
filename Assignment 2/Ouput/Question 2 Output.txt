@@ -1,0 +1,26 @@
+>> testXrayProjector
+----------------------------------------
+Test 1. Origin Projection Test
+Origin [0,0,0] in CK in Xray A detector frame: [0.000, -0.000, 0.000]
+
+Origin [0,0,0] in CK in Xray B detector frame: [0.000, -0.000, 0.000]
+
+----------------------------------------
+Test 2. z-unit vector Projection Test
+z unit vector [0,0,1] in CK in Xray A detector frame: [0.000, -0.000, 2.000]
+
+z unit vector [0,0,1] in CK in Xray B detector frame: [0.000, -0.000, 2.000]
+
+----------------------------------------
+Test 3. Y-unit vector from A Projection Test
+[-0.707, 0.707, 0.000] Y_A unit vector in CK, in Xray A detector frame: [0.000, -0.000, 0.000]
+
+[-0.707, 0.707, 0.000]  Y_A unit vectorin CK, in Xray B detector frame: [-2.000, -0.000, 0.000]
+
+----------------------------------------
+Test 4. Y-unit vector from B Projection Test
+[0.707, 0.707, 0.000] Y_B unit vector in Xray A detector frame: [2.000, -0.000, 0.000]
+
+[0.707, 0.707, 0.000]  Y_B unit vector in Xray B detector frame: [0.000, -0.000, 0.000]
+
+>> 

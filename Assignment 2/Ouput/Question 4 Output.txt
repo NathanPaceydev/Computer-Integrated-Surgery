@@ -1,0 +1,48 @@
+>> testMarkerCorrespondences
+----------------------------------------
+ Test 1. Project the M1CK, M2CK, M3C onto two the X-ray detectors:
+
+
+REM_Matrix =
+
+    0.0000   24.7498   49.4995
+   39.3343    0.0000   13.1176
+   51.5456    8.5949    0.0000
+
+Correspondence Matrix:
+     1     1
+     2     2
+     3     3
+
+----------------------------------------
+ Test 2. Swap M1 and M2 images
+
+
+REM_Matrix =
+
+   39.3343    0.0000   13.1176
+    0.0000   24.7498   49.4995
+   51.5456    8.5949    0.0000
+
+Correspondence Matrix:
+     1     2
+     2     1
+     3     3
+
+----------------------------------------
+ Test 3. New Markers
+M1CK = [30, -30, 0], M2CK = [-30, 0, 0], M3CK = [0, -30, 60].
+
+
+REM_Matrix =
+
+    0.0000         0   49.4995
+    0.0000    0.0000   49.4995
+   51.5456   29.8573    0.0000
+
+Correspondence Matrix:
+     1    -1
+     2    -1
+     3     3
+
+>> 

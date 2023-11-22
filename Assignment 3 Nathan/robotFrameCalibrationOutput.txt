@@ -1,0 +1,20 @@
+>> testRobotFrameCalibration
+Test 1. Ground Truth tests in mm:
+x: [1.00, 0.00, 0.00]
+y: [0.00, 1.00, 0.00]
+z: [0.00, 0.00, 1.00]
+O: [0.00, 0.00, 0.00]
+alpha (in degrees): 45.00
+
+Test 2. Introducing sigma = 1mm error:
+x: [1.00, -0.01, 0.01]
+y: [0.01, 1.00, -0.01]
+z: [0.00, 0.01, 1.00]
+O: [0.01, -0.16, 0.22]
+alpha (in degrees): 42.99
+
+Error in x: 0.01 mm
+Error in y: 0.01 mm
+Error in z: 0.01 mm
+Error in O: 0.28 mm
+Error in alpha: 2.01 deg

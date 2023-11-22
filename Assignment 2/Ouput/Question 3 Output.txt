@@ -1,0 +1,44 @@
+>> testMarkerReconstruction
+----------------------------------------
+Test 1. z-unit vector Reconstruction Test
+Original Point: [0.000, 0.000, 1.000]
+Reconstructed Point: [0.000, 0.000, 1.000]
+Residual Error Metric: [0.000, 0.000, 0.000]
+
+----------------------------------------
+Test 2. Y-unit vector from A Reconstruction Test
+Original Point: [-0.707, 0.707, 0.000]
+Reconstructed Point: [-0.707, 0.707, 0.000]
+Residual Error Metric: [0.000, 0.000, 0.000]
+
+----------------------------------------
+Test 3. Y-unit vector from B Reconstruction Test
+Original Point: [0.707, 0.707, 0.000]
+Reconstructed Point: [0.707, 0.707, 0.000]
+Residual Error Metric: [0.000, 0.000, 0.000]
+
+----------------------------------------
+Test for Reconstructed CCK
+Original Point: [0.000, 0.000, 0.000]
+Reconstructed Point: [0.000, 0.000, 0.000]
+Residual Error Metric: [0.000, 0.000, 0.000]
+
+----------------------------------------
+Test for Reconstructed M1CK
+Original Point: [30.000, -30.000, 0.000]
+Reconstructed Point: [30.000, -30.000, 0.000]
+Residual Error Metric: [0.000, 0.000, 0.000]
+
+----------------------------------------
+Test for Reconstructed M2CK
+Original Point: [-30.000, 0.000, 30.000]
+Reconstructed Point: [-30.000, 0.000, 30.000]
+Residual Error Metric: [0.000, 0.000, 0.000]
+
+----------------------------------------
+Test for Reconstructed M3CK
+Original Point: [0.000, -30.000, 60.000]
+Reconstructed Point: [0.000, -30.000, 60.000]
+Residual Error Metric: [0.000, 0.000, 0.000]
+
+>> 

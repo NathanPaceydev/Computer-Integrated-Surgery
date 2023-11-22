@@ -1,0 +1,20 @@
+>> testTargetRegistration
+----------------------------------------
+Test 1. Target point Registration
+Computed target point in CK frame: [-0.000, 30.000, 30.000]
+Ground truth target point in CK frame: [0.000, 30.000, 30.000]
+Error between computed and ground truth: 0.000
+----------------------------------------
+Test 2. Markers in CK Registration
+Computed M1 in CK frame: [30.000, -30.000, -0.000]
+Ground truth target point in CK frame: [30.000, -30.000, 0.000]
+Error between computed and ground truth: 0.000
+
+Computed M2 in CK frame: [-30.000, 0.000, 30.000]
+Ground truth target point in CK frame: [-30.000, 0.000, 30.000]
+Error between computed and ground truth: 0.000
+
+Computed M3 in CK frame: [-0.000, -30.000, 60.000]
+Ground truth target point in CK frame: [0.000, -30.000, 60.000]
+Error between computed and ground truth: 0.000
+>> 

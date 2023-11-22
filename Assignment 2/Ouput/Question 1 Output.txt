@@ -1,0 +1,37 @@
+>> testFrameTransformation
+
+Transformation Matrix T_CK->A
+    0.7071    0.7071         0   -0.0000
+   -0.7071    0.7071         0  100.0000
+         0         0    1.0000         0
+         0         0         0    1.0000
+
+
+----------------------------------------
+ Test 1. Detector A Center in A Frame
+Center of A in CK [70.711, -70.711, 0.000]
+Center of A in A Frame:[-0.000, 0.000, 0.000]
+
+----------------------------------------
+ Test 2. Source A in A Frame
+Source A in CK [-70.711, 70.711, 0.000]
+Source of A in A Frame:[-0.000, 200.000, 0.000]
+
+----------------------------------------
+
+Transformation Matrix T_CK->B
+    0.7071   -0.7071         0    0.0000
+    0.7071    0.7071         0  100.0000
+         0         0    1.0000         0
+         0         0         0    1.0000
+
+
+----------------------------------------
+ Test 3. Detector B Center in B Frame
+Center of B in CK [-70.711, -70.711, 0.000]
+Center of B in B Frame:[0.000, 0.000, 0.000]
+----------------------------------------
+ Test 4. Source Center in B Frame
+Source B in CK [70.711, 70.711, 0.000]
+Source of B in B Frame:[0.000, 200.000, 0.000]
+>> 

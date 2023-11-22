@@ -1,0 +1,32 @@
+>> testForward
+Test 1. given TP: : [30.00, -20.00, -50.00]
+theta: -33.69
+d: 50.99
+z: -86.06
+
+Measured TP: [30.00, -20.00, -50.00] 
+----------------------------------------
+Test 2. Only Needle Insertion No Rotation or Translation
+Given TP: [31.82, 0.00, 31.82]
+theta: 0.00
+d: 45.00
+z: 0.00
+
+Measured TP: [31.82, 0.00, 31.82] 
+----------------------------------------
+Test 3. Needle Insertion and Axis Rotation
+Given TP: [27.56, 15.91, 31.82]
+theta: 30.00
+d: 45.00
+z: 0.00
+
+Measured TP: [27.56, 15.91, 31.82] 
+----------------------------------------
+Test 4. All degrees of freedom Needle, Rotation and Translation
+Given TP: [27.56, 15.91, 41.82]
+theta: 30.00
+d: 45.00
+z: 10.00
+
+Measured TP: [27.56, 15.91, 41.82] 
+>> 

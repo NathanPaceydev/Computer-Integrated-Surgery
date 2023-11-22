@@ -1,0 +1,17 @@
+>> testTargetRegistrationErrorSimulation
+Given Markers in CK Frame:
+M1_CK: [30.000, -30.000, 0.000]
+M2_CK: [-30.000, 0.000, 30.000]
+M3_CK: [0.000, -30.000, 60.000]
+
+Markers in A Frame:
+A_M1CK: [0.000, -0.000, 0.000]
+A_M2CK: [-53.850, 0.000, 76.155]
+A_M3CK: [-35.002, -0.000, 98.999]
+
+Markers in B Frame:
+B_M1CK: [84.853, -0.000, 0.000]
+B_M2CK: [-35.002, -0.000, 49.500]
+B_M3CK: [35.002, -0.000, 98.999]
+Maximum allowable marker segmentation error: 0.600 mm
+>> 
